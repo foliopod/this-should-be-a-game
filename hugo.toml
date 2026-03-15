@@ -1,4 +1,4 @@
-baseurl = "https://foliopod.github.io/"
+baseurl = "https://foliopod.github.io/this-should-be-a-game"
 languageCode = "en-us"
 # theme = "hugo-theme-re-terminal"
 pagination.pagerSize = 1

@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on </title>
+    <title></title>
     <link>https://re-terminal.nebrowser.com/</link>
-    <description>Recent content in Home on </description>
+    <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://re-terminal.nebrowser.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gravity 1 - with Will Jobst</title>
+      <link>https://re-terminal.nebrowser.com/episodes/gravity1/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://re-terminal.nebrowser.com/episodes/gravity1/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2623755?theme=light&amp;v=2&#34; title=&#34;ANNOUNCING: This Should Be A Game!&#34; width=&#34;100%&#34; height=&#34;202px&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2623755&#34;&gt;ANNOUNCING: This Should Be A Game!&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Announcing: This Should Be A Game!</title>
+      <link>https://re-terminal.nebrowser.com/episodes/announcement/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://re-terminal.nebrowser.com/episodes/announcement/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2623755?theme=light&amp;v=2&#34; title=&#34;ANNOUNCING: This Should Be A Game!&#34; width=&#34;100%&#34; height=&#34;202px&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2623755&#34;&gt;ANNOUNCING: This Should Be A Game!&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://re-terminal.nebrowser.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://re-terminal.nebrowser.com/about/</guid>
+      <description>&lt;p&gt;This Should Be A Game! is a podcast about adaptive media and filtering 99% of your life experiences through tabletop role-playing games, hosted by &lt;a href=&#34;https://bsky.app/profile/posatahchips.gaygothvibes.online&#34;&gt;satah&lt;/a&gt; and &lt;a href=&#34;https://bsky.app/profile/jessfrom.online&#34;&gt;Jess&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Logo and graphic design by &lt;a href=&#34;https://crisvianastudio.com/&#34;&gt;Cris Viana&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Theme song by &lt;a href=&#34;https://nickyflowers.com/&#34;&gt;Nicky Flowers&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

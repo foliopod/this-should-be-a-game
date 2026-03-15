@@ -2,16 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://re-terminal.nebrowser.com/</loc>
+    <lastmod>2026-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://re-terminal.nebrowser.com/episodes/</loc>
+    <lastmod>2026-03-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://re-terminal.nebrowser.com/movies/gravity/</loc>
+    <lastmod>2026-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://re-terminal.nebrowser.com/episodes/gravity1/</loc>
+    <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://re-terminal.nebrowser.com/guests/</loc>
-  </url><url>
-    <loc>https://re-terminal.nebrowser.com/</loc>
+    <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://re-terminal.nebrowser.com/movies/</loc>
-  </url><url>
-    <loc>https://re-terminal.nebrowser.com/guests/none/</loc>
+    <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://re-terminal.nebrowser.com/guests/will-jobst/</loc>
+    <lastmod>2026-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://re-terminal.nebrowser.com/episodes/announcement/</loc>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://re-terminal.nebrowser.com/guests/none/</loc>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://re-terminal.nebrowser.com/about/</loc>
   </url>
 </urlset>

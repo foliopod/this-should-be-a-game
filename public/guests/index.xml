@@ -6,19 +6,20 @@
     <description>Recent content in Guests on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://re-terminal.nebrowser.com/guests/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>None</title>
-      <link>https://re-terminal.nebrowser.com/guests/none/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://re-terminal.nebrowser.com/guests/none/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Will Jobst</title>
       <link>https://re-terminal.nebrowser.com/guests/will-jobst/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://re-terminal.nebrowser.com/guests/will-jobst/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>None</title>
+      <link>https://re-terminal.nebrowser.com/guests/none/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://re-terminal.nebrowser.com/guests/none/</guid>
       <description></description>
     </item>
   </channel>

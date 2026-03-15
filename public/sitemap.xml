@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://foliopod.github.io/this-should-be-a-game/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/episodes/</loc>
+    <loc>https://foliopod.github.io/this-should-be-a-game/episodes/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/movies/gravity/</loc>
+    <loc>https://foliopod.github.io/this-should-be-a-game/movies/gravity/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/episodes/gravity1/</loc>
+    <loc>https://foliopod.github.io/this-should-be-a-game/episodes/gravity1/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guests/</loc>
+    <loc>https://foliopod.github.io/this-should-be-a-game/guests/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/movies/</loc>
+    <loc>https://foliopod.github.io/this-should-be-a-game/movies/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guests/will-jobst/</loc>
+    <loc>https://foliopod.github.io/this-should-be-a-game/guests/will-jobst/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/episodes/announcement/</loc>
+    <loc>https://foliopod.github.io/this-should-be-a-game/episodes/announcement/</loc>
     <lastmod>2026-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guests/none/</loc>
+    <loc>https://foliopod.github.io/this-should-be-a-game/guests/none/</loc>
     <lastmod>2026-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://foliopod.github.io/this-should-be-a-game/about/</loc>
   </url>
 </urlset>

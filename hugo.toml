@@ -1,0 +1,73 @@
+baseurl = "https://re-terminal.nebrowser.com"
+languageCode = "en-us"
+# theme = "hugo-theme-re-terminal"
+pagination.pagerSize = 5
+
+[params]
+  contentTypeName = "episodes"
+  themeColor = "blue"
+  showMenuItems = 3
+  fullWidthTheme = false
+  centerTheme = true
+  readingTime = false
+
+[taxonomies]
+  movie = 'movies'
+  guest = 'guests'
+
+#  [params.banner]
+#    dismissible = false
+#    text = "Check it out on GitHub"
+#    url = "https://github.com/mirus-ua/hugo-theme-re-terminal"
+
+[languages]
+  [languages.en.params]
+    title = "This Should Be A Game!"
+    subtitle = "A game design and adaptive media podcast."
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "This Should Be A Game!"
+      logoHomeLink = "/"
+
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    identifier = "submenu"
+    name = "Episodes"
+    weight = 10
+  [[languages.en.menu.main]]
+    identifier = "submovie"
+    name = "By movie"
+    url = "/movies"
+    parent = "submenu"
+  [[languages.en.menu.main]]
+    identifier = "subguest"
+    name = "By guest"
+    url = "/guests"
+    parent = "submenu"
+  [[languages.en.menu.main]]
+    identifier = "suball"
+    name = "All"
+    url = "/guests"
+    parent = "submenu"
+  [[languages.en.menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+#  [[languages.en.menu.main]]
+#    identifier = "showcase"
+#    name = "Episodes"
+#    url = "/episodes"
+
+
+# allow episode embeds
+[markup.goldmark.renderer]
+ unsafe = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

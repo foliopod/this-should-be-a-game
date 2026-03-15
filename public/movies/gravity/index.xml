@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gravity on </title>
-    <link>https://foliopod.github.io/this-should-be-a-game/movies/gravity/</link>
+    <link>//localhost:1313/movies/gravity/</link>
     <description>Recent content in Gravity on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://foliopod.github.io/this-should-be-a-game/movies/gravity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/movies/gravity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gravity 1 - with Will Jobst</title>
-      <link>https://foliopod.github.io/this-should-be-a-game/episodes/gravity1/</link>
+      <link>//localhost:1313/episodes/gravity1/</link>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://foliopod.github.io/this-should-be-a-game/episodes/gravity1/</guid>
+      <guid>//localhost:1313/episodes/gravity1/</guid>
       <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2623755?theme=light&amp;v=2&#34; title=&#34;ANNOUNCING: This Should Be A Game!&#34; width=&#34;100%&#34; height=&#34;202px&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2623755&#34;&gt;ANNOUNCING: This Should Be A Game!&lt;/a&gt;&lt;/iframe&gt;</description>
     </item>
   </channel>

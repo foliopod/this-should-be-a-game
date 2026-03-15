@@ -1,13 +1,14 @@
 <footer class="footer">
   <div class="footer__inner">
-    {{ if $.Site.Params.Copyright }}
+
+        {{ if $.Site.Params.Copyright }}
       <div class="copyright copyright--user">
         <span>{{ $.Site.Params.Copyright | safeHTML }}</span>
     {{ else }}
       <div class="copyright">
-        <span>© {{ now.Year }} Powered by <a href="https://gohugo.io">Hugo</a></span>
+        <span><a href="https://www.patreon.com/cw/thisshouldbeagame">Patreon</a> :: <a href="https://bsky.app/profile/thisshouldbeaga.me">Bluesky</a> | Powered by <a href="https://gohugo.io">Hugo</a></span>
     {{ end }}
-      <span>:: <a href="https://github.com/mirus-ua/hugo-theme-re-terminal" target="_blank">Theme</a> made by <a href="https://github.com/mirus-ua" target="_blank">Mirus</a></span>
+      <span>:: <a href="https://github.com/mirus-ua/hugo-theme-re-terminal" target="_blank">Theme</a> by <a href="https://github.com/mirus-ua" target="_blank">Mirus</a></span>
       </div>
   </div>
 </footer>

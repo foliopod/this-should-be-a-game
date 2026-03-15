@@ -1,5 +1,5 @@
 +++
-title = "Gravity 1 - with Will Jobst"
+title = "Gravity 01 - with will jobst"
 date = "2026-03-14"
 author = ""
 cover = ""

@@ -32,7 +32,7 @@ pagination.pagerSize = 1
 
     [languages.en.params.logo]
       logoText = "This Should Be A Game!"
-      logoHomeLink = "https://foliopod.github.io/this-should-be-a-game/"
+      logoHomeLink = "https://thisshouldbeaga.me"
 
 [languages.en.menu]
   [[languages.en.menu.main]]

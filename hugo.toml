@@ -1,4 +1,4 @@
-# baseurl = "https://foliopod.github.io/this-should-be-a-game"
+# baseurl = "https://foliopod.github.io/this-should-be-a-game/"
 languageCode = "en-us"
 # theme = "hugo-theme-re-terminal"
 pagination.pagerSize = 1
@@ -68,7 +68,6 @@ pagination.pagerSize = 1
 # allow episode embeds
 [markup.goldmark.renderer]
  unsafe = true
-
 
 [caches]
   [caches.images]

@@ -11,7 +11,7 @@ pagination.pagerSize = 1
   readingTime = false
   showLastUpdated = false
 
-  baseURL = 'thisshouldbeaga.me'
+  baseURL = "https://thisshouldbeaga.me"
 
 [taxonomies]
   movie = 'movies'

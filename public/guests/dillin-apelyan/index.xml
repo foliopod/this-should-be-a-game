@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dillin Apelyan on </title>
+    <link>//localhost:1313/guests/dillin-apelyan/</link>
+    <description>Recent content in Dillin Apelyan on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/guests/dillin-apelyan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apollo 13 - 01 - with Dillin Apelyan</title>
+      <link>//localhost:1313/episodes/08-apollo-13-01/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/episodes/08-apollo-13-01/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

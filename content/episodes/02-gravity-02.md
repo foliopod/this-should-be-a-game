@@ -1,5 +1,5 @@
 +++
-title = "Gravity 02 - with Dora Rogers"
+title = "Gravity - 02 - with Dora Rogers"
 date = "2026-03-23"
 draft = false
 author = ""

@@ -2,31 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gravity 01 - with will jobst</title>
-      <link>/episodes/01-gravity-01/</link>
+      <title>The Martian - 04 - Hostzone</title>
+      <link>//localhost:1313/episodes/07-the-martian-04/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/episodes/07-the-martian-04/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2703281?theme=light&amp;v=2&#34; title=&#34;The Martian (2015) - 04 - Hostzone&#34; width=&#34;100%&#34; height=&#34;202px&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2703281&#34;&gt;The Martian (2015) - 04 - Hostzone&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>The Martian - 03 - with Kendrick Smith</title>
+      <link>//localhost:1313/episodes/06-the-martian-03/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/episodes/06-the-martian-03/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2703249?theme=light&amp;v=2&#34; title=&#34;The Martian (2015) - 03 - with Kendrick Smith&#34; width=&#34;100%&#34; height=&#34;202px&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2703249&#34;&gt;The Martian (2015) - 03 - with Kendrick Smith&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>The Martian - 02 - with Dusty Hill</title>
+      <link>//localhost:1313/episodes/05-the-martian-02/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/episodes/05-the-martian-02/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2702666?theme=light&amp;v=2&#34; title=&#34;The Martian (2015) - 02 - with Dusty Hill&#34; width=&#34;100%&#34; height=&#34;202px&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2702666&#34;&gt;The Martian (2015) - 02 - with Dusty Hill&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>The Martian - 01 - with Caleb Zane Huett</title>
+      <link>//localhost:1313/episodes/04-the-martian-01/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/episodes/04-the-martian-01/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2702240?theme=light&amp;v=2&#34; title=&#34;The Martian (2015) - 01 - with Caleb Zane Huett&#34; width=&#34;100%&#34; height=&#34;202px&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2702240&#34;&gt;The Martian (2015) - 01 - with Caleb Zane Huett&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Gravity - 03 - Hostzone</title>
+      <link>//localhost:1313/episodes/03-gravity-03/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/episodes/03-gravity-03/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2630897?theme=light&amp;v=2&#34; width=&#34;100%&#34; height=&#34;202px&#34; title=&#34;Gravity (2013) - 03 - Hostzone&#34; frameBorder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2630897/&#34;&gt;Gravity (2013) - 03 - Hostzone | RSS.com&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Gravity 03 - Hostzone</title>
+      <link>//localhost:1313/episodes/11-looper-01/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/episodes/11-looper-01/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2630897?theme=light&amp;v=2&#34; width=&#34;100%&#34; height=&#34;202px&#34; title=&#34;Gravity (2013) - 03 - Hostzone&#34; frameBorder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2630897/&#34;&gt;Gravity (2013) - 03 - Hostzone | RSS.com&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Gravity 03 - Hostzone</title>
+      <link>//localhost:1313/episodes/12-looper-02/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/episodes/12-looper-02/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2630897?theme=light&amp;v=2&#34; width=&#34;100%&#34; height=&#34;202px&#34; title=&#34;Gravity (2013) - 03 - Hostzone&#34; frameBorder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2630897/&#34;&gt;Gravity (2013) - 03 - Hostzone | RSS.com&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Gravity 03 - Hostzone</title>
+      <link>//localhost:1313/episodes/13-looper-03/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/episodes/13-looper-03/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2630897?theme=light&amp;v=2&#34; width=&#34;100%&#34; height=&#34;202px&#34; title=&#34;Gravity (2013) - 03 - Hostzone&#34; frameBorder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2630897/&#34;&gt;Gravity (2013) - 03 - Hostzone | RSS.com&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Gravity 03 - Hostzone</title>
+      <link>//localhost:1313/episodes/14-looper-04/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/episodes/14-looper-04/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2630897?theme=light&amp;v=2&#34; width=&#34;100%&#34; height=&#34;202px&#34; title=&#34;Gravity (2013) - 03 - Hostzone&#34; frameBorder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2630897/&#34;&gt;Gravity (2013) - 03 - Hostzone | RSS.com&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Gravity 03 - Hostzone</title>
+      <link>//localhost:1313/episodes/15-happy-death-day-01/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/episodes/15-happy-death-day-01/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2630897?theme=light&amp;v=2&#34; width=&#34;100%&#34; height=&#34;202px&#34; title=&#34;Gravity (2013) - 03 - Hostzone&#34; frameBorder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2630897/&#34;&gt;Gravity (2013) - 03 - Hostzone | RSS.com&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Gravity 03 - Hostzone</title>
+      <link>//localhost:1313/episodes/16-happy-death-day-02/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/episodes/16-happy-death-day-02/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2630897?theme=light&amp;v=2&#34; width=&#34;100%&#34; height=&#34;202px&#34; title=&#34;Gravity (2013) - 03 - Hostzone&#34; frameBorder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2630897/&#34;&gt;Gravity (2013) - 03 - Hostzone | RSS.com&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Gravity 03 - Hostzone</title>
+      <link>//localhost:1313/episodes/17-happy-death-day-03/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/episodes/17-happy-death-day-03/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2630897?theme=light&amp;v=2&#34; width=&#34;100%&#34; height=&#34;202px&#34; title=&#34;Gravity (2013) - 03 - Hostzone&#34; frameBorder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2630897/&#34;&gt;Gravity (2013) - 03 - Hostzone | RSS.com&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Gravity - 02 - with Dora Rogers</title>
+      <link>//localhost:1313/episodes/02-gravity-02/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/episodes/02-gravity-02/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2630891?theme=light&amp;v=2&#34; width=&#34;100%&#34; height=&#34;202px&#34; title=&#34;Gravity (2013) - 02 - with Dora Rogers&#34; frameBorder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2630891/&#34;&gt;Gravity (2013) - 02 - with Dora Rogers | RSS.com&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Gravity - 01 - with will jobst</title>
+      <link>//localhost:1313/episodes/01-gravity-01/</link>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/episodes/01-gravity-01/</guid>
-      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2623755?theme=light&amp;v=2&#34; title=&#34;ANNOUNCING: This Should Be A Game!&#34; width=&#34;100%&#34; height=&#34;202px&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2623755&#34;&gt;ANNOUNCING: This Should Be A Game!&lt;/a&gt;&lt;/iframe&gt;</description>
+      <guid>//localhost:1313/episodes/01-gravity-01/</guid>
+      <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2630849?theme=light&amp;v=2&#34; width=&#34;100%&#34; height=&#34;202px&#34; title=&#34;Gravity (2013) - 01 - with will jobst&#34; frameBorder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2630849/&#34;&gt;Gravity (2013) - 01 - with will jobst | RSS.com&lt;/a&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Announcing: This Should Be A Game!</title>
-      <link>/episodes/announcement/</link>
+      <link>//localhost:1313/episodes/announcement/</link>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/episodes/announcement/</guid>
+      <guid>//localhost:1313/episodes/announcement/</guid>
       <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2623755?theme=light&amp;v=2&#34; title=&#34;ANNOUNCING: This Should Be A Game!&#34; width=&#34;100%&#34; height=&#34;202px&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2623755&#34;&gt;ANNOUNCING: This Should Be A Game!&lt;/a&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>&lt;p&gt;This Should Be A Game! is a podcast about adaptive media and filtering 99% of your life experiences through tabletop role-playing games, hosted by &lt;a href=&#34;https://bsky.app/profile/posatahchips.gaygothvibes.online&#34;&gt;satah&lt;/a&gt; and &lt;a href=&#34;https://bsky.app/profile/jessfrom.online&#34;&gt;Jess&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Logo and graphic design by &lt;a href=&#34;https://crisvianastudio.com/&#34;&gt;Cris Viana&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Theme song by &lt;a href=&#34;https://nickyflowers.com/&#34;&gt;Nicky Flowers&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

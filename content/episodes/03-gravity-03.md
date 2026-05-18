@@ -1,5 +1,5 @@
 +++
-title = "Gravity 03 - Hostzone"
+title = "Gravity - 03 - Hostzone"
 date = "2026-03-30"
 draft = false
 author = ""

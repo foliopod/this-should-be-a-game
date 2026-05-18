@@ -1,6 +1,6 @@
 languageCode = "en-us"
 theme = "re-terminal"
-pagination.pagerSize = 1
+pagination.pagerSize = 5
 
 [params]
   contentTypeName = "episodes"

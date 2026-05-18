@@ -2,96 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/movies/apollo-13/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/episodes/08-apollo-13-01/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/guests/dillin-apelyan/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/episodes/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/guests/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/movies/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/guests/none/</loc>
+    <loc>/</loc>
     <lastmod>2026-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/movies/the-martian/</loc>
+    <loc>/episodes/</loc>
     <lastmod>2026-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/episodes/07-the-martian-04/</loc>
+    <loc>/guests/</loc>
     <lastmod>2026-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/guests/kendrick-smith/</loc>
+    <loc>/movies/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/guests/none/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/movies/the-martian/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/episodes/07-the-martian-04/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/guests/kendrick-smith/</loc>
     <lastmod>2026-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/episodes/06-the-martian-03/</loc>
+    <loc>/episodes/06-the-martian-03/</loc>
     <lastmod>2026-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/guests/dusty-hill/</loc>
+    <loc>/guests/dusty-hill/</loc>
     <lastmod>2026-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/episodes/05-the-martian-02/</loc>
+    <loc>/episodes/05-the-martian-02/</loc>
     <lastmod>2026-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/guests/caleb-zane-huett/</loc>
+    <loc>/guests/caleb-zane-huett/</loc>
     <lastmod>2026-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/episodes/04-the-martian-01/</loc>
+    <loc>/episodes/04-the-martian-01/</loc>
     <lastmod>2026-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/movies/gravity/</loc>
+    <loc>/movies/gravity/</loc>
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/episodes/03-gravity-03/</loc>
+    <loc>/episodes/03-gravity-03/</loc>
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/episodes/11-looper-01/</loc>
-    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/episodes/12-looper-02/</loc>
-    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/episodes/13-looper-03/</loc>
-    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/episodes/14-looper-04/</loc>
-    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/episodes/15-happy-death-day-01/</loc>
-    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/episodes/16-happy-death-day-02/</loc>
-    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/episodes/17-happy-death-day-03/</loc>
-    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/guests/dora-rogers/</loc>
+    <loc>/guests/dora-rogers/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/episodes/02-gravity-02/</loc>
+    <loc>/episodes/02-gravity-02/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/episodes/01-gravity-01/</loc>
+    <loc>/episodes/01-gravity-01/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/guests/will-jobst/</loc>
+    <loc>/guests/will-jobst/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/episodes/announcement/</loc>
+    <loc>/episodes/announcement/</loc>
     <lastmod>2026-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
   </url>
 </urlset>

@@ -25,7 +25,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en.params]
     title = "This Should Be A Game!"
-    subtitle = "A game design and adaptive media podcast."
+    subtitle = "A TTRPG design and adaptive media podcast."
     keywords = ""
     copyright = ""
     menuMore = "Show more"

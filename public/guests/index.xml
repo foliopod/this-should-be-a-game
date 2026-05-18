@@ -2,59 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guests on </title>
-    <link>//localhost:1313/guests/</link>
+    <link>/guests/</link>
     <description>Recent content in Guests on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/guests/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dillin Apelyan</title>
-      <link>//localhost:1313/guests/dillin-apelyan/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/guests/dillin-apelyan/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/guests/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>None</title>
-      <link>//localhost:1313/guests/none/</link>
+      <link>/guests/none/</link>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/guests/none/</guid>
+      <guid>/guests/none/</guid>
       <description></description>
     </item>
     <item>
       <title>Kendrick Smith</title>
-      <link>//localhost:1313/guests/kendrick-smith/</link>
+      <link>/guests/kendrick-smith/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/guests/kendrick-smith/</guid>
+      <guid>/guests/kendrick-smith/</guid>
       <description></description>
     </item>
     <item>
       <title>Dusty Hill</title>
-      <link>//localhost:1313/guests/dusty-hill/</link>
+      <link>/guests/dusty-hill/</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/guests/dusty-hill/</guid>
+      <guid>/guests/dusty-hill/</guid>
       <description></description>
     </item>
     <item>
       <title>Caleb Zane Huett</title>
-      <link>//localhost:1313/guests/caleb-zane-huett/</link>
+      <link>/guests/caleb-zane-huett/</link>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/guests/caleb-zane-huett/</guid>
+      <guid>/guests/caleb-zane-huett/</guid>
       <description></description>
     </item>
     <item>
       <title>Dora Rogers</title>
-      <link>//localhost:1313/guests/dora-rogers/</link>
+      <link>/guests/dora-rogers/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/guests/dora-rogers/</guid>
+      <guid>/guests/dora-rogers/</guid>
       <description></description>
     </item>
     <item>
       <title>Will Jobst</title>
-      <link>//localhost:1313/guests/will-jobst/</link>
+      <link>/guests/will-jobst/</link>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/guests/will-jobst/</guid>
+      <guid>/guests/will-jobst/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kendrick Smith on </title>
-    <link>//localhost:1313/guests/kendrick-smith/</link>
+    <link>/guests/kendrick-smith/</link>
     <description>Recent content in Kendrick Smith on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/guests/kendrick-smith/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/guests/kendrick-smith/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Martian - 03 - with Kendrick Smith</title>
-      <link>//localhost:1313/episodes/06-the-martian-03/</link>
+      <link>/episodes/06-the-martian-03/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/episodes/06-the-martian-03/</guid>
+      <guid>/episodes/06-the-martian-03/</guid>
       <description>&lt;iframe src=&#34;https://player.rss.com/this-should-be-a-game/2703249?theme=light&amp;v=2&#34; title=&#34;The Martian (2015) - 03 - with Kendrick Smith&#34; width=&#34;100%&#34; height=&#34;202px&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/this-should-be-a-game/2703249&#34;&gt;The Martian (2015) - 03 - with Kendrick Smith&lt;/a&gt;&lt;/iframe&gt;</description>
     </item>
   </channel>

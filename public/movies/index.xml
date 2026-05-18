@@ -2,31 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Movies on </title>
-    <link>//localhost:1313/movies/</link>
+    <link>/movies/</link>
     <description>Recent content in Movies on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/movies/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Apollo 13</title>
-      <link>//localhost:1313/movies/apollo-13/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/movies/apollo-13/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/movies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Martian</title>
-      <link>//localhost:1313/movies/the-martian/</link>
+      <link>/movies/the-martian/</link>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/movies/the-martian/</guid>
+      <guid>/movies/the-martian/</guid>
       <description></description>
     </item>
     <item>
       <title>Gravity</title>
-      <link>//localhost:1313/movies/gravity/</link>
+      <link>/movies/gravity/</link>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/movies/gravity/</guid>
+      <guid>/movies/gravity/</guid>
       <description></description>
     </item>
   </channel>

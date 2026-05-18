@@ -11,6 +11,8 @@ pagination.pagerSize = 1
   readingTime = false
   showLastUpdated = false
 
+  baseURL = 'thisshouldbeaga.me'
+
 [taxonomies]
   movie = 'movies'
   guest = 'guests'

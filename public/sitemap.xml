@@ -3,19 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/episodes/</loc>
-    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/guests/</loc>
-    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/movies/looper/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/episodes/13-looper-03/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/movies/</loc>
-    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/guests/sean-ireland/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/episodes/12-looper-02/</loc>
+    <lastmod>2026-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/guests/sebastian-y%C5%ABe/</loc>
+    <lastmod>2026-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/guests/aaron-voigt/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/episodes/11-looper-01/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/movies/apollo-13/</loc>
+    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/episodes/10-apollo-13-03/</loc>
+    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/guests/none/</loc>
-    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/episodes/09-apollo-13-02/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/guests/viditya-voleti/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/episodes/08-apollo-13-01/</loc>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/guests/dillin-apelyan/</loc>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/movies/the-martian/</loc>
     <lastmod>2026-05-04T00:00:00+00:00</lastmod>

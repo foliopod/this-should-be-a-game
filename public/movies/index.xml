@@ -6,8 +6,22 @@
     <description>Recent content in Movies on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/movies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Looper</title>
+      <link>/movies/looper/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>/movies/looper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apollo 13</title>
+      <link>/movies/apollo-13/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>/movies/apollo-13/</guid>
+      <description></description>
+    </item>
     <item>
       <title>The Martian</title>
       <link>/movies/the-martian/</link>

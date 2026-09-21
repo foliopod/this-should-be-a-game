@@ -7,5 +7,9 @@ cover = ""
 description = ""
 hideComments=true
 movies = [ "The Thing" ]
-guests = [ "None", "Mechanical Mailbag" ]
+guests = [ "Mechanical Mailbag", "None" ]
 +++
+
+Submissions are now open for the second [This Should Be a Game! Jam](https://itch.io/jam/this-should-be-a-game-jam-02)-- make something inspired by *In the Mouth of Madness* or *The Thing* any time before **November 19th**!
+
+episode

@@ -16,6 +16,21 @@
               {{- .Date.Format "2006-01-02" -}}
             </time>
           {{- end -}}
+
+            {{ with .Params.movies }}
+                {{ range . }}
+                  📼  <a href="{{ "movies/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+                {{ end }}
+
+            {{ end }}
+            👥 
+            {{ with .Params.guests }}
+                {{ range . }}
+                  <a href="{{ "guests/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+                {{ end }}
+
+            {{ end }}
+
           {{- with .Params.Author -}}
             <span class="post-author">{{- . -}}</span>
           {{- end -}}

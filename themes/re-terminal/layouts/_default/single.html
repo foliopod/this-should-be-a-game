@@ -12,9 +12,28 @@
         {{- end -}}
       </time>
     {{- end -}}
+
+
+
+{{ with .Params.movies }}
+    {{ range . }}
+      📼  <a href="{{ "movies/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+    {{ end }}
+
+{{ end }}
+👥 
+{{ with .Params.guests }}
+    {{ range . }}
+      <a href="{{ "guests/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+    {{ end }}
+
+{{ end }}
+
+
     {{- with .Params.Author -}}
       <span class="post-author">{{ . }}</span>
     {{- end -}}
+    
     <!-- comments counter -->
     {{ partial "comments_counter.html" . }}
     {{- if and (.Param "readingTime") (eq (.Param "readingTime") true) -}}

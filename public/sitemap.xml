@@ -3,13 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2026-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/guests/alyssa/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/episodes/</loc>
-    <lastmod>2026-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/guests/</loc>
-    <lastmod>2026-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/movies/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/movies/the-thing/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/episodes/21-the-thing-01/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/movies/in-the-mouth-of-madness/</loc>
     <lastmod>2026-09-21T00:00:00+00:00</lastmod>
@@ -17,16 +29,10 @@
     <loc>/episodes/20-in-the-mouth-of-madness-03/</loc>
     <lastmod>2026-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/guests/jess-levine/</loc>
-    <lastmod>2026-09-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/guests/mechanical-mailbag/</loc>
     <lastmod>2026-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/movies/</loc>
-    <lastmod>2026-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/guests/satah/</loc>
+    <loc>/guests/none/</loc>
     <lastmod>2026-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/guests/briar-sovereign/</loc>
@@ -45,9 +51,6 @@
     <lastmod>2026-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/episodes/17-happy-death-day-03/</loc>
-    <lastmod>2026-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/guests/none/</loc>
     <lastmod>2026-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/episodes/16-happy-death-day-02/</loc>
